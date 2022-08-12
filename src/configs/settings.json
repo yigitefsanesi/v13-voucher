@@ -1,0 +1,34 @@
+{
+  "token": "",
+  "prefix": ["."],
+  "guildID": "997813106489167872",
+  "mongoUrl": "mongodb+srv://main123:bjk1903arda@main123.o5ftm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "owners": ["900720172053180416"],
+  "botSes": "997813108259168283",
+  "botDurum": "Carloza 💖 V A L E N T İ A ",
+  "registerPerm": "997813106627575853",
+
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+  "messageCount": 1,
+  "messageCoin": 1,
+  "voiceCount": 1,
+  "voiceCoin": 0.25,
+  "publicCoin": 2,
+  "inviteCount": 1,
+  "inviteCoin": 2,
+  "taggedCoin": 8,
+  "toplamsCoin": 1.25,
+  "yetkiCoin": 8,
+  
+  "ReklamLimit": 15,
+  "ageLimit": 13,
+  "banlimit": 10,
+  "jaillimit": 15,
+  "warnlimit": 20,
+  "chatmutelimit": 20,
+  "voicemutelimit": 20
+}
